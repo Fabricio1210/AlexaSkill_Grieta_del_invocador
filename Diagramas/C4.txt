@@ -1,0 +1,121 @@
+@startuml AlexaSkillClasses
+
+' Configuración de estilo
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
+
+title Class Diagram - LoL Meta Alexa Skill (Python SDK)
+
+package "ASK SDK Core" {
+    abstract class AbstractRequestHandler {
+        + {abstract} can_handle(handler_input: HandlerInput) : bool
+        + {abstract} handle(handler_input: HandlerInput) : Response
+    }
+
+    abstract class AbstractExceptionHandler {
+        + {abstract} can_handle(handler_input: HandlerInput, exception: Exception) : bool
+        + {abstract} handle(handler_input: HandlerInput, exception: Exception) : Response
+    }
+}
+
+package "Logic / Services" {
+    class OPggAPI {
+        - base_url: str
+        + get_champion_html(champion_name: str, role: str) : str
+        + get_meta_stats_json(champion_name: str) : dict
+    }
+
+    class ChampionDataParser {
+        - api_client: OPggAPI
+        + __init__(api_client: OPggAPI)
+        + get_build(champion_name: str) : dict
+        + get_runes(champion_name: str) : dict
+        + get_counters(champion_name: str) : list
+        + get_meta_stats(metric:str, champion_name: str) : dict
+        - _parse_html(html_content: str) : soup
+    }
+
+    class GameTipsManager {
+        - tips_storage: list
+        + get_random_tip() : str
+        + get_tip_by_category(category: str) : str
+    }
+}
+
+package "Intent Handlers" {
+    class LaunchRequestHandler {
+        + can_handle(handler_input) : bool
+        + handle(handler_input) : Response
+    }
+
+    class GetChampionBuildHandler {
+        - parser: ChampionDataParser
+        + can_handle(handler_input) : bool
+        + handle(handler_input) : Response
+    }
+
+    class GetChampionRunesHandler {
+        - parser: ChampionDataParser
+        + can_handle(handler_input) : bool
+        + handle(handler_input) : Response
+    }
+
+    class GetChampionCounterHandler {
+        - parser: ChampionDataParser
+        + can_handle(handler_input) : bool
+        + handle(handler_input) : Response
+    }
+
+    class GetChampionMetaStatsIntentHandler {
+        - parser: ChampionDataParser
+        + can_handle(handler_input) : bool
+        + handle(handler_input) : Response
+    }
+
+    class GetGameTipsIntentHandler {
+        - tips_manager: GameTipsManager
+        + can_handle(handler_input) : bool
+        + handle(handler_input) : Response
+    }
+
+    class HelpIntentHandler {
+        + can_handle(handler_input) : bool
+        + handle(handler_input) : Response
+    }
+    
+    class CatchAllExceptionHandler {
+        + can_handle(handler_input, exception) : bool
+        + handle(handler_input, exception) : Response
+    }
+}
+
+class MainLambda {
+    + sb: SkillBuilder
+    + lambda_handler(event, context)
+}
+
+' Relaciones de Herencia
+AbstractRequestHandler <|-- LaunchRequestHandler
+AbstractRequestHandler <|-- GetChampionBuildHandler
+AbstractRequestHandler <|-- GetChampionRunesHandler
+AbstractRequestHandler <|-- GetChampionCounterHandler
+AbstractRequestHandler <|-- GetChampionMetaStatsIntentHandler
+AbstractRequestHandler <|-- GetGameTipsIntentHandler
+AbstractRequestHandler <|-- HelpIntentHandler
+AbstractExceptionHandler <|-- CatchAllExceptionHandler
+
+' Relaciones de Dependencia/Asociación
+GetChampionBuildHandler ..> ChampionDataParser : uses
+GetChampionRunesHandler ..> ChampionDataParser : uses
+GetChampionCounterHandler ..> ChampionDataParser : uses
+GetChampionMetaStatsIntentHandler ..> ChampionDataParser : uses
+
+GetGameTipsIntentHandler ..> GameTipsManager : uses
+
+ChampionDataParser *-- OPggAPI : composed of
+
+' Configuración final
+MainLambda ..> AbstractRequestHandler : registers
+MainLambda ..> AbstractExceptionHandler : registers
+
+@enduml

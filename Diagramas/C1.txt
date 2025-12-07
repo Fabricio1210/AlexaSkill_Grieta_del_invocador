@@ -1,0 +1,24 @@
+@startuml C4_Context
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+
+title Asistente estratégico para jugadores de League of Legends - Diagrama de Contexto
+
+Person(usuario, "Usuario", "Jugador de LOL que necesita asistencia")
+
+System(LOLSkill, "Guia del Invocador Skill", " Skill de Alexa diseñada como un asistente estratégico para jugadores de League of Legends, ofreciendo información actualizada del metajuego de manera rápida y accesible")
+
+System_Ext(alexa, "Amazon Alexa", "Plataforma de procesamiento de voz que convierte comandos hablados en peticiones JSON")
+
+System_Ext(aws, "AWS Lambda", "Servicio de computación serverless que ejecuta el código del skill")
+
+System_Ext(OPGG, "OP.GG API", "Estadisticas y datos actualizados del meta actual de LOL")
+
+Rel(usuario, alexa, "Habla comandos de voz", "Voz")
+Rel(alexa, LOLSkill, "Envía peticiones JSON", "HTTPS/JSON")
+Rel(LOLSkill, alexa, "Responde con JSON", "HTTPS/JSON") 
+Rel(alexa, usuario, "Reproduce respuestas", "Audio")
+
+Rel(LOLSkill, aws, "Se ejecuta en", "Runtime")
+Rel(aws, OPGG, "Se comunica con", "HTTP")
+
+@enduml

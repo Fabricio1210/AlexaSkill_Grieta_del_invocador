@@ -1,0 +1,56 @@
+@startuml C4_Component
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+title Alexa Skill Lambda Function - Diagrama de Componentes
+
+Container(ask, "Alexa Skills Kit", "ASK Runtime", "Maneja intents y slots")
+
+Container_Boundary(lambda_function, "Alexa Skill Lambda Function") {
+
+    Component(launch_handler, "LaunchRequestHandler", "Python Class", "Maneja el inicio del skill, proporciona mensaje de bienvenida")
+    Component(champion_build_handler, "GetChampionBuildHandler", "Python Class", "Proporciona builds recomendados para un campeón especifico, objetos y runas recomendados para el meta actual")
+    Component(champion_runes_handler, "GetChampionRunesHandler", "Python Class", "Muestra el árbol principal, el árbol secundario y las runas clave.")
+    Component(champion_counters_handler, "GetChampionCounterHandler", "Python Class", "Proporciona os matchups y porcentajes de winrate relevantes para un campeón especifico.")
+    Component(champion_meta_stats_handler, "GetChampionMetaStatsIntentHandler", "Python Class", "Maneja consultas winrate, pickrate o banrate de un campeón.")
+    Component(game_tips_handler, "GetGameTipsIntentHandler", "Python Class", "Proporciona recordatorios y tips prácticos para mejorar decisiones durante la partida")
+    Component(help_handler, "HelpIntentHandler", "Python Class", "Proporciona ayuda y lista de comandos")
+    Component(error_handler, "CatchAllExceptionHandler", "Python Class", "Maneja errores y excepciones")
+    
+    Component(OPggAPI_class, "OPggAPI", "Python Class", "Clase que encapsula la lógica de scraping o requests a op.gg.")
+    Component(championData_class, "ChampionDataParser", "Python Class", "Procesa y limpia los datos obtenidos de op.gg.")
+    Component(gamesTips_class, "GameTipsManager", "Python Class", "Manejo de tips aleatorios o por categoria")
+    
+    Component(skill_builder, "SkillBuilder", "ASK SDK", "Registra handlers y configura el skill")
+}
+
+ContainerDb(memory_storage, "In-Memory Storage", "Python Objects", "Estructura global con los tips")
+Container(opgg_api, "OP.gg API", "REST API", "API publica del meta actual de LOL.")
+
+Rel(ask, launch_handler, "LaunchRequest", "JSON")
+Rel(ask, champion_build_handler, "GetChampionBuildHandler", "JSON") 
+Rel(ask, champion_runes_handler, "GetChampionRunesHandler", "JSON")
+Rel(ask, champion_counters_handler, "GetChampionCounterHandler", "JSON")
+Rel(ask, champion_meta_stats_handler, "GetChampionMetaStatsIntentHandler", "JSON")
+Rel(ask, game_tips_handler, "GetGameTipsIntentHandler", "JSON")
+Rel(ask, help_handler, "HelpIntent", "JSON")
+
+Rel(champion_build_handler, championData_class, "function call")
+Rel(champion_runes_handler, championData_class, "function call")
+Rel(champion_counters_handler, championData_class, "function call")
+Rel(champion_meta_stats_handler, championData_class, "function call")
+Rel(game_tips_handler, gamesTips_class, "function call")
+
+Rel(OPggAPI_class, championData_class, "handles", "Instantiation")
+Rel(gamesTips_class, memory_storage, "stores objects", "Python objects")
+Rel(OPggAPI_class, opgg_api, "Calls and processes", "HTTPS")
+
+Rel(launch_handler, skill_builder, "registered in", "Configuration")
+Rel(champion_build_handler, skill_builder, "registered in", "Configuration")
+Rel(champion_runes_handler, skill_builder, "registered in", "Configuration")
+Rel(champion_counters_handler, skill_builder, "registered in", "Configuration")
+Rel(champion_meta_stats_handler, skill_builder, "registered in", "Configuration")
+Rel(game_tips_handler, skill_builder, "registered in", "Configuration")
+Rel(help_handler, skill_builder, "registered in", "Configuration")
+Rel(error_handler, skill_builder, "registered in", "Configuration")
+
+@enduml
