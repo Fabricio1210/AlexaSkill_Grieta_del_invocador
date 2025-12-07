@@ -1,5 +1,9 @@
 # Alexa LoL Meta Assistant
 
+## Integrantes
+- Fabricio Daniel Lara Valencia
+- Diego Alonso Martin del Campo
+
 ## Descripción del Proyecto
 Alexa LoL Meta Assistant** es una skill para Amazon Alexa pensada como un **asistente estratégico de League of Legends.  
 Permite consultar builds, runas, counters, estadísticas del meta (WR/PR/BR) y recibir consejos estratégicos mediante comandos de voz rápidos, claros y accesibles.
