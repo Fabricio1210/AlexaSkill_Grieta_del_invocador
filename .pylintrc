@@ -1,0 +1,2 @@
+[MESSAGES CONTROL]
+disable=import-outside-toplevel,missing-module-docstring,too-few-public-methods

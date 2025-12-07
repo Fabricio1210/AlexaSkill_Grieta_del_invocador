@@ -1,0 +1,387 @@
+{
+  "Aatrox": {
+    "Winrate": 0.5021,
+    "Pickrate": 0.0889,
+    "Banrate": 0.1566
+  },
+  "Ahri": {
+    "Winrate": 0.5181,
+    "Pickrate": 0.0852,
+    "Banrate": 0.0188
+  },
+  "Akali": {
+    "Winrate": 0.4935,
+    "Pickrate": 0.0650,
+    "Banrate": 0.1012
+  },
+  "Akshan": {
+    "Winrate": 0.5174,
+    "Pickrate": 0.0316,
+    "Banrate": 0.0377
+  },
+  "Anivia": {
+    "Winrate": 0.5157,
+    "Pickrate": 0.0305,
+    "Banrate": 0.0205
+  },
+  "Ashe": {
+    "Winrate": 0.5132,
+    "Pickrate": 0.1000,
+    "Banrate": 0.0717
+  },
+  "Bardo": {
+    "Winrate": 0.5174,
+    "Pickrate": 0.0731,
+    "Banrate": 0.0377
+  },
+  "Blitzcrank": {
+    "Winrate": 0.5089,
+    "Pickrate": 0.0608,
+    "Banrate": 0.1345
+  },
+  "Braum": {
+    "Winrate": 0.5117,
+    "Pickrate": 0.0678,
+    "Banrate": 0.0667
+  },
+  "Briar": {
+    "Winrate": 0.5136,
+    "Pickrate": 0.0339,
+    "Banrate": 0.0489
+  },
+  "Darius": {
+    "Winrate": 0.5090,
+    "Pickrate": 0.0415,
+    "Banrate": 0.0670
+  },
+  "Diana": {
+    "Winrate": 0.5129,
+    "Pickrate": 0.0351,
+    "Banrate": 0.0572
+  },
+  "Ekko": {
+    "Winrate": 0.5141,
+    "Pickrate": 0.0454,
+    "Banrate": 0.0196
+  },
+  "Elise": {
+    "Winrate": 0.5424,
+    "Pickrate": 0.0204,
+    "Banrate": 0.0313
+  },
+  "Evelynn": {
+    "Winrate": 0.5171,
+    "Pickrate": 0.0220,
+    "Banrate": 0.0274
+  },
+  "Fiddlesticks": {
+    "Winrate": 0.5155,
+    "Pickrate": 0.0206,
+    "Banrate": 0.0162
+  },
+  "Fiora": {
+    "Winrate": 0.5196,
+    "Pickrate": 0.0478,
+    "Banrate": 0.0689
+  },
+  "Fizz": {
+    "Winrate": 0.5092,
+    "Pickrate": 0.0397,
+    "Banrate": 0.0450
+  },
+  "Gwen": {
+    "Winrate": 0.5173,
+    "Pickrate": 0.0376,
+    "Banrate": 0.0478
+  },
+  "Ivern": {
+    "Winrate": 0.5391,
+    "Pickrate": 0.0148,
+    "Banrate": 0.0067
+  },
+  "Janna": {
+    "Winrate": 0.5223,
+    "Pickrate": 0.0485,
+    "Banrate": 0.0127
+  },
+  "Jax": {
+    "Winrate": 0.5091,
+    "Pickrate": 0.0320,
+    "Banrate": 0.1563
+  },
+  "Jhin": {
+    "Winrate": 0.5075,
+    "Pickrate": 0.1604,
+    "Banrate": 0.0153
+  },
+  "Jinx": {
+    "Winrate": 0.5096,
+    "Pickrate": 0.1077,
+    "Banrate": 0.0164
+  },
+  "K'Sante": {
+    "Winrate": 0.4789,
+    "Pickrate": 0.0310,
+    "Banrate": 0.0410
+  },
+  "Kaisa": {
+    "Winrate": 0.4988,
+    "Pickrate": 0.1450,
+    "Banrate": 0.0355
+  },
+  "Karma": {
+    "Winrate": 0.5163,
+    "Pickrate": 0.1050,
+    "Banrate": 0.0562
+  },
+  "Kassadin": {
+    "Winrate": 0.5164,
+    "Pickrate": 0.0305,
+    "Banrate": 0.0290
+  },
+  "Katarina": {
+    "Winrate": 0.5097,
+    "Pickrate": 0.0740,
+    "Banrate": 0.0920
+  },
+  "Kayle": {
+    "Winrate": 0.5252,
+    "Pickrate": 0.0184,
+    "Banrate": 0.0328
+  },
+  "Kindred": {
+    "Winrate": 0.5190,
+    "Pickrate": 0.0283,
+    "Banrate": 0.0260
+  },
+  "Kled": {
+    "Winrate": 0.5308,
+    "Pickrate": 0.0166,
+    "Banrate": 0.0061
+  },
+  "Lee Sin": {
+    "Winrate": 0.5037,
+    "Pickrate": 0.1156,
+    "Banrate": 0.1087
+  },
+  "Leona": {
+    "Winrate": 0.5071,
+    "Pickrate": 0.0700,
+    "Banrate": 0.0508
+  },
+  "Lulu": {
+    "Winrate": 0.5122,
+    "Pickrate": 0.0688,
+    "Banrate": 0.0311
+  },
+  "Maestro Yi": {
+    "Winrate": 0.5063,
+    "Pickrate": 0.0449,
+    "Banrate": 0.1031
+  },
+  "Malphite": {
+    "Winrate": 0.5323,
+    "Pickrate": 0.0743,
+    "Banrate": 0.2594
+  },
+  "Milio": {
+    "Winrate": 0.5178,
+    "Pickrate": 0.0935,
+    "Banrate": 0.0887
+  },
+  "Miss Fortune": {
+    "Winrate": 0.5222,
+    "Pickrate": 0.1944,
+    "Banrate": 0.1439
+  },
+  "Nami": {
+    "Winrate": 0.5147,
+    "Pickrate": 0.1419,
+    "Banrate": 0.0243
+  },
+  "Nidalee": {
+    "Winrate": 0.5187,
+    "Pickrate": 0.0397,
+    "Banrate": 0.0335
+  },
+  "Nunu y Willump": {
+    "Winrate": 0.5193,
+    "Pickrate": 0.0209,
+    "Banrate": 0.0047
+  },
+  "Olaf": {
+    "Winrate": 0.5204,
+    "Pickrate": 0.0176,
+    "Banrate": 0.0108
+  },
+  "Ornn": {
+    "Winrate": 0.5113,
+    "Pickrate": 0.0331,
+    "Banrate": 0.0041
+  },
+  "Poppy": {
+    "Winrate": 0.5169,
+    "Pickrate": 0.0280,
+    "Banrate": 0.0655
+  },
+  "Qiyana": {
+    "Winrate": 0.5134,
+    "Pickrate": 0.0246,
+    "Banrate": 0.1232
+  },
+  "Quinn": {
+    "Winrate": 0.5359,
+    "Pickrate": 0.0168,
+    "Banrate": 0.0212
+  },
+  "Rammus": {
+    "Winrate": 0.5393,
+    "Pickrate": 0.0108,
+    "Banrate": 0.0190
+  },
+  "Riven": {
+    "Winrate": 0.5199,
+    "Pickrate": 0.0492,
+    "Banrate": 0.0337
+  },
+  "Samira": {
+    "Winrate": 0.5055,
+    "Pickrate": 0.0790,
+    "Banrate": 0.0844
+  },
+  "Sett": {
+    "Winrate": 0.5068,
+    "Pickrate": 0.0518,
+    "Banrate": 0.0195
+  },
+  "Shaco": {
+    "Winrate": 0.5084,
+    "Pickrate": 0.0333,
+    "Banrate": 0.1743
+  },
+  "Shen": {
+    "Winrate": 0.5097,
+    "Pickrate": 0.0322,
+    "Banrate": 0.0067
+  },
+  "Singed": {
+    "Winrate": 0.5315,
+    "Pickrate": 0.0260,
+    "Banrate": 0.0076
+  },
+  "Smolder": {
+    "Winrate": 0.5081,
+    "Pickrate": 0.1032,
+    "Banrate": 0.0442
+  },
+  "Sona": {
+    "Winrate": 0.5157,
+    "Pickrate": 0.0308,
+    "Banrate": 0.0038
+  },
+  "Soraka": {
+    "Winrate": 0.5088,
+    "Pickrate": 0.0550,
+    "Banrate": 0.0249
+  },
+  "Swain": {
+    "Winrate": 0.5544,
+    "Pickrate": 0.0120,
+    "Banrate": 0.0115
+  },
+  "Sylas": {
+    "Winrate": 0.5108,
+    "Pickrate": 0.1245,
+    "Banrate": 0.2808
+  },
+  "Syndra": {
+    "Winrate": 0.5082,
+    "Pickrate": 0.0794,
+    "Banrate": 0.0513
+  },
+  "Talon": {
+    "Winrate": 0.5245,
+    "Pickrate": 0.0187,
+    "Banrate": 0.0584
+  },
+  "Thresh": {
+    "Winrate": 0.5101,
+    "Pickrate": 0.1099,
+    "Banrate": 0.0494
+  },
+  "Tristana": {
+    "Winrate": 0.5129,
+    "Pickrate": 0.0734,
+    "Banrate": 0.0316
+  },
+  "Twisted Fate": {
+    "Winrate": 0.5159,
+    "Pickrate": 0.0386,
+    "Banrate": 0.0081
+  },
+  "Urgot": {
+    "Winrate": 0.5173,
+    "Pickrate": 0.0239,
+    "Banrate": 0.0080
+  },
+  "Vayne": {
+    "Winrate": 0.5183,
+    "Pickrate": 0.0698,
+    "Banrate": 0.0528
+  },
+  "Veigar": {
+    "Winrate": 0.5097,
+    "Pickrate": 0.0304,
+    "Banrate": 0.0043
+  },
+  "Vex": {
+    "Winrate": 0.5277,
+    "Pickrate": 0.0234,
+    "Banrate": 0.0265
+  },
+  "Viego": {
+    "Winrate": 0.5015,
+    "Pickrate": 0.0880,
+    "Banrate": 0.1450
+  },
+  "Viktor": {
+    "Winrate": 0.5021,
+    "Pickrate": 0.0992,
+    "Banrate": 0.0363
+  },
+  "Vladimir": {
+    "Winrate": 0.5125,
+    "Pickrate": 0.0339,
+    "Banrate": 0.0780
+  },
+  "Warwick": {
+    "Winrate": 0.5273,
+    "Pickrate": 0.0249,
+    "Banrate": 0.0168
+  },
+  "Xerath": {
+    "Winrate": 0.5115,
+    "Pickrate": 0.0388,
+    "Banrate": 0.0422
+  },
+  "Yone": {
+    "Winrate": 0.4950,
+    "Pickrate": 0.1310,
+    "Banrate": 0.2500
+  },
+  "Zac": {
+    "Winrate": 0.5193,
+    "Pickrate": 0.0267,
+    "Banrate": 0.0158
+  },
+  "Zeri": {
+    "Winrate": 0.5130,
+    "Pickrate": 0.1326,
+    "Banrate": 0.5725
+  },
+  "Zoe": {
+    "Winrate": 0.5171,
+    "Pickrate": 0.0438,
+    "Banrate": 0.0641
+  }
+}

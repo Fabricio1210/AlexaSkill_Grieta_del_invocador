@@ -1,0 +1,1087 @@
+{
+  "interactionModel": {
+    "dialog": {
+      "intents": [
+        {
+          "slots": [
+            {
+              "name": "campeon",
+              "elicitationRequired": true,
+              "type": "ChampionName",
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.1240965161896.1610799638008"
+              }
+            }
+          ],
+          "name": "getChampionCounterHandler",
+          "confirmationRequired": false,
+          "prompts": {}
+        },
+        {
+          "slots": [
+            {
+              "name": "campeon",
+              "elicitationRequired": true,
+              "type": "ChampionName",
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.436029826872.286518598392"
+              }
+            }
+          ],
+          "name": "getChampionBuild",
+          "confirmationRequired": false,
+          "prompts": {}
+        },
+        {
+          "slots": [
+            {
+              "name": "campeon",
+              "elicitationRequired": true,
+              "type": "ChampionName",
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.334605427529.115201517114"
+              }
+            }
+          ],
+          "name": "getChampionRunes",
+          "confirmationRequired": false,
+          "prompts": {}
+        }
+      ],
+      "delegationStrategy": "ALWAYS"
+    },
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "campeon",
+              "type": "ChampionName",
+              "samples": [
+                "{campeon}",
+                "De {campeon}"
+              ]
+            }
+          ],
+          "name": "getChampionRunes",
+          "samples": [
+            "Que runas usa {campeon}",
+            "Cuales son las runas de {campeon}",
+            "Dame las runas de {campeon}"
+          ]
+        },
+        {
+          "slots": [
+            {
+              "name": "campeon",
+              "type": "ChampionName",
+              "samples": [
+                "De  {campeon}",
+                "{campeon}"
+              ]
+            }
+          ],
+          "name": "getChampionBuild",
+          "samples": [
+            "dame el build de {campeon}",
+            "Cual es la mejor build para {campeon}"
+          ]
+        },
+        {
+          "slots": [
+            {
+              "name": "metrica",
+              "type": "Metric"
+            },
+            {
+              "name": "campeon",
+              "type": "ChampionName"
+            }
+          ],
+          "name": "getChampionMetaStats",
+          "samples": [
+            "dame el {metrica} de {campeon}",
+            "Que {metrica} tiene {campeon}"
+          ]
+        },
+        {
+          "slots": [
+            {
+              "name": "campeon",
+              "type": "ChampionName",
+              "samples": [
+                "{campeon}",
+                "De {campeon}"
+              ]
+            }
+          ],
+          "name": "getChampionCounterHandler",
+          "samples": [
+            "Con que campeon puedo jugar contra {campeon}",
+            "Cual es el counter de {campeon}",
+            "Contra quien pierde {campeon}"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "getGameTips",
+          "samples": [
+            "algun consejo",
+            "Que tip me podria ser util en una partida",
+            "Dame un consejo antes de jugar"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "Aatrox"
+              }
+            },
+            {
+              "name": {
+                "value": "Ahri"
+              }
+            },
+            {
+              "name": {
+                "value": "Akali"
+              }
+            },
+            {
+              "name": {
+                "value": "Akshan"
+              }
+            },
+            {
+              "name": {
+                "value": "Alistar"
+              }
+            },
+            {
+              "name": {
+                "value": "Ambessa"
+              }
+            },
+            {
+              "name": {
+                "value": "Amumu"
+              }
+            },
+            {
+              "name": {
+                "value": "Anivia"
+              }
+            },
+            {
+              "name": {
+                "value": "Annie"
+              }
+            },
+            {
+              "name": {
+                "value": "Aphelios"
+              }
+            },
+            {
+              "name": {
+                "value": "Ashe"
+              }
+            },
+            {
+              "name": {
+                "value": "Aurelion Sol"
+              }
+            },
+            {
+              "name": {
+                "value": "Aurora"
+              }
+            },
+            {
+              "name": {
+                "value": "Azir"
+              }
+            },
+            {
+              "name": {
+                "value": "Bardo"
+              }
+            },
+            {
+              "name": {
+                "value": "Bel\u0027Veth"
+              }
+            },
+            {
+              "name": {
+                "value": "Blitzcrank"
+              }
+            },
+            {
+              "name": {
+                "value": "Brand"
+              }
+            },
+            {
+              "name": {
+                "value": "Braum"
+              }
+            },
+            {
+              "name": {
+                "value": "Briar"
+              }
+            },
+            {
+              "name": {
+                "value": "Caitlyn"
+              }
+            },
+            {
+              "name": {
+                "value": "Camille"
+              }
+            },
+            {
+              "name": {
+                "value": "Cassiopeia"
+              }
+            },
+            {
+              "name": {
+                "value": "Cho\u0027Gath"
+              }
+            },
+            {
+              "name": {
+                "value": "Corki"
+              }
+            },
+            {
+              "name": {
+                "value": "Darius"
+              }
+            },
+            {
+              "name": {
+                "value": "Diana"
+              }
+            },
+            {
+              "name": {
+                "value": "Dr. Mundo"
+              }
+            },
+            {
+              "name": {
+                "value": "Draven"
+              }
+            },
+            {
+              "name": {
+                "value": "Ekko"
+              }
+            },
+            {
+              "name": {
+                "value": "Elise"
+              }
+            },
+            {
+              "name": {
+                "value": "Evelynn"
+              }
+            },
+            {
+              "name": {
+                "value": "Ezreal"
+              }
+            },
+            {
+              "name": {
+                "value": "Fiddlesticks"
+              }
+            },
+            {
+              "name": {
+                "value": "Fiora"
+              }
+            },
+            {
+              "name": {
+                "value": "Fizz"
+              }
+            },
+            {
+              "name": {
+                "value": "Galio"
+              }
+            },
+            {
+              "name": {
+                "value": "Gangplank"
+              }
+            },
+            {
+              "name": {
+                "value": "Garen"
+              }
+            },
+            {
+              "name": {
+                "value": "Gnar"
+              }
+            },
+            {
+              "name": {
+                "value": "Gragas"
+              }
+            },
+            {
+              "name": {
+                "value": "Graves"
+              }
+            },
+            {
+              "name": {
+                "value": "Gwen"
+              }
+            },
+            {
+              "name": {
+                "value": "Hecarim"
+              }
+            },
+            {
+              "name": {
+                "value": "Heimerdinger"
+              }
+            },
+            {
+              "name": {
+                "value": "Hwei"
+              }
+            },
+            {
+              "name": {
+                "value": "Illaoi"
+              }
+            },
+            {
+              "name": {
+                "value": "Irelia"
+              }
+            },
+            {
+              "name": {
+                "value": "Ivern"
+              }
+            },
+            {
+              "name": {
+                "value": "Janna"
+              }
+            },
+            {
+              "name": {
+                "value": "Jarvan IV"
+              }
+            },
+            {
+              "name": {
+                "value": "Jax"
+              }
+            },
+            {
+              "name": {
+                "value": "Jayce"
+              }
+            },
+            {
+              "name": {
+                "value": "Jhin"
+              }
+            },
+            {
+              "name": {
+                "value": "Jinx"
+              }
+            },
+            {
+              "name": {
+                "value": "K\u0027Sante"
+              }
+            },
+            {
+              "name": {
+                "value": "Kai\u0027Sa"
+              }
+            },
+            {
+              "name": {
+                "value": "Kalista"
+              }
+            },
+            {
+              "name": {
+                "value": "Karma"
+              }
+            },
+            {
+              "name": {
+                "value": "Karthus"
+              }
+            },
+            {
+              "name": {
+                "value": "Kassadin"
+              }
+            },
+            {
+              "name": {
+                "value": "Katarina"
+              }
+            },
+            {
+              "name": {
+                "value": "Kayle"
+              }
+            },
+            {
+              "name": {
+                "value": "Kayn"
+              }
+            },
+            {
+              "name": {
+                "value": "Kennen"
+              }
+            },
+            {
+              "name": {
+                "value": "Kha\u0027Zix"
+              }
+            },
+            {
+              "name": {
+                "value": "Kindred"
+              }
+            },
+            {
+              "name": {
+                "value": "Kled"
+              }
+            },
+            {
+              "name": {
+                "value": "Kog\u0027Maw"
+              }
+            },
+            {
+              "name": {
+                "value": "LeBlanc"
+              }
+            },
+            {
+              "name": {
+                "value": "Lee Sin"
+              }
+            },
+            {
+              "name": {
+                "value": "Leona"
+              }
+            },
+            {
+              "name": {
+                "value": "Lillia"
+              }
+            },
+            {
+              "name": {
+                "value": "Lissandra"
+              }
+            },
+            {
+              "name": {
+                "value": "Lucian"
+              }
+            },
+            {
+              "name": {
+                "value": "Lulu"
+              }
+            },
+            {
+              "name": {
+                "value": "Lux"
+              }
+            },
+            {
+              "name": {
+                "value": "Maestro Yi"
+              }
+            },
+            {
+              "name": {
+                "value": "Malphite"
+              }
+            },
+            {
+              "name": {
+                "value": "Malzahar"
+              }
+            },
+            {
+              "name": {
+                "value": "Maokai"
+              }
+            },
+            {
+              "name": {
+                "value": "Mel"
+              }
+            },
+            {
+              "name": {
+                "value": "Milio"
+              }
+            },
+            {
+              "name": {
+                "value": "Miss Fortune"
+              }
+            },
+            {
+              "name": {
+                "value": "Mordekaiser"
+              }
+            },
+            {
+              "name": {
+                "value": "Morgana"
+              }
+            },
+            {
+              "name": {
+                "value": "Naafiri"
+              }
+            },
+            {
+              "name": {
+                "value": "Nami"
+              }
+            },
+            {
+              "name": {
+                "value": "Nasus"
+              }
+            },
+            {
+              "name": {
+                "value": "Nautilus"
+              }
+            },
+            {
+              "name": {
+                "value": "Neeko"
+              }
+            },
+            {
+              "name": {
+                "value": "Nidalee"
+              }
+            },
+            {
+              "name": {
+                "value": "Nilah"
+              }
+            },
+            {
+              "name": {
+                "value": "Nocturne"
+              }
+            },
+            {
+              "name": {
+                "value": "Nunu y Willump"
+              }
+            },
+            {
+              "name": {
+                "value": "Olaf"
+              }
+            },
+            {
+              "name": {
+                "value": "Orianna"
+              }
+            },
+            {
+              "name": {
+                "value": "Ornn"
+              }
+            },
+            {
+              "name": {
+                "value": "Pantheon"
+              }
+            },
+            {
+              "name": {
+                "value": "Poppy"
+              }
+            },
+            {
+              "name": {
+                "value": "Pyke"
+              }
+            },
+            {
+              "name": {
+                "value": "Qiyana"
+              }
+            },
+            {
+              "name": {
+                "value": "Quinn"
+              }
+            },
+            {
+              "name": {
+                "value": "Rakan"
+              }
+            },
+            {
+              "name": {
+                "value": "Rammus"
+              }
+            },
+            {
+              "name": {
+                "value": "Rek\u0027Sai"
+              }
+            },
+            {
+              "name": {
+                "value": "Rell"
+              }
+            },
+            {
+              "name": {
+                "value": "Renata Glasc"
+              }
+            },
+            {
+              "name": {
+                "value": "Renekton"
+              }
+            },
+            {
+              "name": {
+                "value": "Rengar"
+              }
+            },
+            {
+              "name": {
+                "value": "Riven"
+              }
+            },
+            {
+              "name": {
+                "value": "Rumble"
+              }
+            },
+            {
+              "name": {
+                "value": "Ryze"
+              }
+            },
+            {
+              "name": {
+                "value": "Samira"
+              }
+            },
+            {
+              "name": {
+                "value": "Sejuani"
+              }
+            },
+            {
+              "name": {
+                "value": "Senna"
+              }
+            },
+            {
+              "name": {
+                "value": "Seraphine"
+              }
+            },
+            {
+              "name": {
+                "value": "Sett"
+              }
+            },
+            {
+              "name": {
+                "value": "Shaco"
+              }
+            },
+            {
+              "name": {
+                "value": "Shen"
+              }
+            },
+            {
+              "name": {
+                "value": "Shyvana"
+              }
+            },
+            {
+              "name": {
+                "value": "Singed"
+              }
+            },
+            {
+              "name": {
+                "value": "Sion"
+              }
+            },
+            {
+              "name": {
+                "value": "Sivir"
+              }
+            },
+            {
+              "name": {
+                "value": "Skarner"
+              }
+            },
+            {
+              "name": {
+                "value": "Smolder"
+              }
+            },
+            {
+              "name": {
+                "value": "Sona"
+              }
+            },
+            {
+              "name": {
+                "value": "Soraka"
+              }
+            },
+            {
+              "name": {
+                "value": "Swain"
+              }
+            },
+            {
+              "name": {
+                "value": "Sylas"
+              }
+            },
+            {
+              "name": {
+                "value": "Syndra"
+              }
+            },
+            {
+              "name": {
+                "value": "Tahm Kench"
+              }
+            },
+            {
+              "name": {
+                "value": "Taliyah"
+              }
+            },
+            {
+              "name": {
+                "value": "Talon"
+              }
+            },
+            {
+              "name": {
+                "value": "Taric"
+              }
+            },
+            {
+              "name": {
+                "value": "Teemo"
+              }
+            },
+            {
+              "name": {
+                "value": "Thresh"
+              }
+            },
+            {
+              "name": {
+                "value": "Tristana"
+              }
+            },
+            {
+              "name": {
+                "value": "Trundle"
+              }
+            },
+            {
+              "name": {
+                "value": "Tryndamere"
+              }
+            },
+            {
+              "name": {
+                "value": "Twisted Fate"
+              }
+            },
+            {
+              "name": {
+                "value": "Twitch"
+              }
+            },
+            {
+              "name": {
+                "value": "Udyr"
+              }
+            },
+            {
+              "name": {
+                "value": "Urgot"
+              }
+            },
+            {
+              "name": {
+                "value": "Varus"
+              }
+            },
+            {
+              "name": {
+                "value": "Vayne"
+              }
+            },
+            {
+              "name": {
+                "value": "Veigar"
+              }
+            },
+            {
+              "name": {
+                "value": "Vel\u0027Koz"
+              }
+            },
+            {
+              "name": {
+                "value": "Vex"
+              }
+            },
+            {
+              "name": {
+                "value": "Vi"
+              }
+            },
+            {
+              "name": {
+                "value": "Viego"
+              }
+            },
+            {
+              "name": {
+                "value": "Viktor"
+              }
+            },
+            {
+              "name": {
+                "value": "Vladimir"
+              }
+            },
+            {
+              "name": {
+                "value": "Volibear"
+              }
+            },
+            {
+              "name": {
+                "value": "Warwick"
+              }
+            },
+            {
+              "name": {
+                "value": "Wukong"
+              }
+            },
+            {
+              "name": {
+                "value": "Xayah"
+              }
+            },
+            {
+              "name": {
+                "value": "Xerath"
+              }
+            },
+            {
+              "name": {
+                "value": "Xin Zhao"
+              }
+            },
+            {
+              "name": {
+                "value": "Yasuo"
+              }
+            },
+            {
+              "name": {
+                "value": "Yone"
+              }
+            },
+            {
+              "name": {
+                "value": "Yorick"
+              }
+            },
+            {
+              "name": {
+                "value": "Yunara"
+              }
+            },
+            {
+              "name": {
+                "value": "Yuumi"
+              }
+            },
+            {
+              "name": {
+                "value": "Zaahen"
+              }
+            },
+            {
+              "name": {
+                "value": "Zac"
+              }
+            },
+            {
+              "name": {
+                "value": "Zed"
+              }
+            },
+            {
+              "name": {
+                "value": "Zeri"
+              }
+            },
+            {
+              "name": {
+                "value": "Ziggs"
+              }
+            },
+            {
+              "name": {
+                "value": "Zilean"
+              }
+            },
+            {
+              "name": {
+                "value": "Zoe"
+              }
+            },
+            {
+              "name": {
+                "value": "Zyra"
+              }
+            }
+          ],
+          "name": "ChampionName"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "synonyms": [
+                  "Ratio de expulsion",
+                  "Ratio de baneo"
+                ],
+                "value": "Banrate"
+              }
+            },
+            {
+              "name": {
+                "synonyms": [
+                  "ratio de seleccion"
+                ],
+                "value": "Pickrate"
+              }
+            },
+            {
+              "name": {
+                "synonyms": [
+                  "ratio de victorias"
+                ],
+                "value": "Winrate"
+              }
+            }
+          ],
+          "name": "Metric"
+        }
+      ],
+      "invocationName": "guía deli invocador"
+    },
+    "prompts": [
+      {
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "De qué campeon quieres conocer el counter?"
+          }
+        ],
+        "id": "Elicit.Slot.1240965161896.1610799638008"
+      },
+      {
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "De que campeón necesitas conocer las runas?"
+          }
+        ],
+        "id": "Elicit.Slot.334605427529.115201517114"
+      },
+      {
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "De que campeon quieres conocer el build?"
+          }
+        ],
+        "id": "Elicit.Slot.436029826872.286518598392"
+      }
+    ]
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "Aatrox": {
+    "Objeto 1": "Eclipse",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Cuchilla Oscura",
+    "Objeto 3": "Lanza de Shojin",
+    "Objeto 4": "Baile de la Muerte",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Ahri": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Velo del Hada de la Muerte",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Akali": {
+    "Objeto 1": "Vara de las Edades",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Diente de Nashor",
+    "Objeto 3": "Reloj de Arena de Zhonya",
+    "Objeto 4": "Sombrero de Rabadon",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Akshan": {
+    "Objeto 1": "Hoja de furia de Guinsoo",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Hoja del Rey Arruinado",
+    "Objeto 3": "Terminus",
+    "Objeto 4": "Recuerdos de Lord Dominik",
+    "Objeto 5": "Bailarín Espectral"
+  },
+  "Anivia": {
+    "Objeto 1": "Vara de las Edades",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Abrazo del Serafín",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Ashe": {
+    "Objeto 1": "Hoja de furia de Guinsoo",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Terminus",
+    "Objeto 3": "Hoja del Rey Arruinado",
+    "Objeto 4": "Huracán de Runaan",
+    "Objeto 5": "Bailarín Espectral"
+  },
+  "Bardo": {
+    "Objeto 1": "Mandato Imperial",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "El Crisol de Mikael",
+    "Objeto 3": "Redención",
+    "Objeto 4": "Corazón de Hielo",
+    "Objeto 5": "Convergencia de Zeke"
+  },
+  "Blitzcrank": {
+    "Objeto 1": "Guantelete de Fuego Congelado",
+    "Botas": "Botas de Movilidad",
+    "Objeto 2": "Malla de Espinas",
+    "Objeto 3": "Corazón de Hielo",
+    "Objeto 4": "Égida de Fuego Solar",
+    "Objeto 5": "Juramento de Caballero"
+  },
+  "Braum": {
+    "Objeto 1": "Coraza de Fuego",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Juramento de Caballero",
+    "Objeto 3": "Malla de Espinas",
+    "Objeto 4": "Redención",
+    "Objeto 5": "Égida de Fuego Solar"
+  },
+  "Briar": {
+    "Objeto 1": "Rompecascos",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Bailarín Espectral",
+    "Objeto 3": "Baile de la Muerte",
+    "Objeto 4": "Hidra Voraz",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Darius": {
+    "Objeto 1": "Rompecascos",
+    "Botas": "Botas Blindadas",
+    "Objeto 2": "Guantelete de Fuego Congelado",
+    "Objeto 3": "Placa del Hombre Muerto",
+    "Objeto 4": "Malla de Espinas",
+    "Objeto 5": "Corazón de Acero"
+  },
+  "Diana": {
+    "Objeto 1": "Cosechador Nocturno",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Diente de Nashor",
+    "Objeto 3": "Reloj de Arena de Zhonya",
+    "Objeto 4": "Sombrero de Rabadon",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Ekko": {
+    "Objeto 1": "Cosechador Nocturno",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Sombrero de Rabadon",
+    "Objeto 3": "Reloj de Arena de Zhonya",
+    "Objeto 4": "Perdición del Liche",
+    "Objeto 5": "Velo del Hada de la Muerte"
+  },
+  "Elise": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Malignidad",
+    "Objeto 3": "Cetro de Cristal de Rylai",
+    "Objeto 4": "Velo del Hada de la Muerte",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Evelynn": {
+    "Objeto 1": "Cosechador Nocturno",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Sombrero de Rabadon",
+    "Objeto 3": "Bastón del Vacío",
+    "Objeto 4": "Llamasombría",
+    "Objeto 5": "Velo del Hada de la Muerte"
+  },
+  "Fiddlesticks": {
+    "Objeto 1": "Cosechador Nocturno",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Malignidad",
+    "Objeto 3": "Reloj de Arena de Zhonya",
+    "Objeto 4": "Sombrero de Rabadon",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Fiora": {
+    "Objeto 1": "Rompecesped",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Hidra Voraz",
+    "Objeto 3": "Baile de la Muerte",
+    "Objeto 4": "Hoja del Rey Arruinado",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Fizz": {
+    "Objeto 1": "Cosechador Nocturno",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Perdición del Liche",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Reloj de Arena de Zhonya",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Gwen": {
+    "Objeto 1": "Diente de Nashor",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Creagrietas",
+    "Objeto 3": "Corazón de Acero",
+    "Objeto 4": "Llamasombría",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Ivern": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Redención",
+    "Objeto 3": "El Crisol de Mikael",
+    "Objeto 4": "Mandato Imperial",
+    "Objeto 5": "Corazón de Hielo"
+  },
+  "Janna": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas de Movilidad",
+    "Objeto 2": "Redención",
+    "Objeto 3": "El Crisol de Mikael",
+    "Objeto 4": "Incensario Ardiente",
+    "Objeto 5": "Protector Pétreo de Gárgola"
+  },
+  "Jax": {
+    "Objeto 1": "Fuerza de Trinidad",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Hoja del Rey Arruinado",
+    "Objeto 3": "Rompecascos",
+    "Objeto 4": "Placa del Hombre Muerto",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Jhin": {
+    "Objeto 1": "Danza de la Muerte",
+    "Botas": "Botas de Rapidez",
+    "Objeto 2": "Filo del Infinito",
+    "Objeto 3": "Recuerdos de Lord Dominik",
+    "Objeto 4": "Cañón de Fuego Rápido",
+    "Objeto 5": "Saqueador de Esencias"
+  },
+  "Jinx": {
+    "Objeto 1": "Filo del Infinito",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Cañón de Fuego Rápido",
+    "Objeto 3": "Bailarín Espectral",
+    "Objeto 4": "Recuerdos de Lord Dominik",
+    "Objeto 5": "Sanguinaria"
+  },
+  "K'Sante": {
+    "Objeto 1": "Corazón de Acero",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Guantelete de Fuego Congelado",
+    "Objeto 3": "Placa del Hombre Muerto",
+    "Objeto 4": "Malla de Espinas",
+    "Objeto 5": "Égida de Fuego Solar"
+  },
+  "Kaisa": {
+    "Objeto 1": "Kraken",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Hoja de furia de Guinsoo",
+    "Objeto 3": "Terminus",
+    "Objeto 4": "Hoja del Rey Arruinado",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Karma": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Mandato Imperial",
+    "Objeto 3": "Redención",
+    "Objeto 4": "El Crisol de Mikael",
+    "Objeto 5": "Incensario Ardiente"
+  },
+  "Kassadin": {
+    "Objeto 1": "Vara de las Edades",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Abrazo del Serafín",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Katarina": {
+    "Objeto 1": "Cosechador Nocturno",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Diente de Nashor",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Reloj de Arena de Zhonya",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Kayle": {
+    "Objeto 1": "Diente de Nashor",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Hoja de furia de Guinsoo",
+    "Objeto 3": "Terminus",
+    "Objeto 4": "Creagrietas",
+    "Objeto 5": "Sombrero de Rabadon"
+  },
+  "Kindred": {
+    "Objeto 1": "Kraken",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Hoja de furia de Guinsoo",
+    "Objeto 3": "Hoja del Rey Arruinado",
+    "Objeto 4": "Terminus",
+    "Objeto 5": "Recuerdos de Lord Dominik"
+  },
+  "Kled": {
+    "Objeto 1": "Rompecascos",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Cuchilla Oscura",
+    "Objeto 3": "Lanza de Shojin",
+    "Objeto 4": "Baile de la Muerte",
+    "Objeto 5": "Hidra Titánica"
+  },
+  "Lee Sin": {
+    "Objeto 1": "Eclipse",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Lanza de Shojin",
+    "Objeto 3": "Baile de la Muerte",
+    "Objeto 4": "Mandíbula de Malmortius",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Leona": {
+    "Objeto 1": "Coraza de Fuego",
+    "Botas": "Botas de Movilidad",
+    "Objeto 2": "Juramento de Caballero",
+    "Objeto 3": "Malla de Espinas",
+    "Objeto 4": "Redención",
+    "Objeto 5": "Égida de Fuego Solar"
+  },
+  "Lulu": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Incensario Ardiente",
+    "Objeto 3": "El Crisol de Mikael",
+    "Objeto 4": "Redención",
+    "Objeto 5": "Protector Pétreo de Gárgola"
+  },
+  "Maestro Yi": {
+    "Objeto 1": "Hoja del Rey Arruinado",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Hoja de furia de Guinsoo",
+    "Objeto 3": "Terminus",
+    "Objeto 4": "Ángel Guardián",
+    "Objeto 5": "Látigo de Merodeador"
+  },
+  "Malphite": {
+    "Objeto 1": "Guantelete de Fuego Congelado",
+    "Botas": "Botas Blindadas",
+    "Objeto 2": "Corazón de Hielo",
+    "Objeto 3": "Malla de Espinas",
+    "Objeto 4": "Égida de Fuego Solar",
+    "Objeto 5": "Abrazo Demoniaco"
+  },
+  "Milio": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Incensario Ardiente",
+    "Objeto 3": "Redención",
+    "Objeto 4": "El Crisol de Mikael",
+    "Objeto 5": "Protector Pétreo de Gárgola"
+  },
+  "Miss Fortune": {
+    "Objeto 1": "Eclipse",
+    "Botas": "Botas de Rapidez",
+    "Objeto 2": "Rencor de Serylda",
+    "Objeto 3": "Ojo de la Oscuridad",
+    "Objeto 4": "Filo del Infinito",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Nami": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Incensario Ardiente",
+    "Objeto 3": "Redención",
+    "Objeto 4": "El Crisol de Mikael",
+    "Objeto 5": "Protector Pétreo de Gárgola"
+  },
+  "Nidalee": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Malignidad",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Nunu y Willump": {
+    "Objeto 1": "Corazón de Acero",
+    "Botas": "Botas de Movilidad",
+    "Objeto 2": "Égida de Fuego Solar",
+    "Objeto 3": "Abrazo Demoniaco",
+    "Objeto 4": "Corazón de Hielo",
+    "Objeto 5": "Máscara Abisal"
+  },
+  "Olaf": {
+    "Objeto 1": "Hidra Titánica",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Cuchilla Oscura",
+    "Objeto 3": "Corazón de Acero",
+    "Objeto 4": "Lanza de Shojin",
+    "Objeto 5": "Baile de la Muerte"
+  },
+  "Ornn": {
+    "Objeto 1": "Corazón de Acero",
+    "Botas": "Botas Blindadas",
+    "Objeto 2": "Guantelete de Fuego Congelado",
+    "Objeto 3": "Malla de Espinas",
+    "Objeto 4": "Jak'Sho, El Proteico",
+    "Objeto 5": "Égida de Fuego Solar"
+  },
+  "Poppy": {
+    "Objeto 1": "Guantelete de Fuego Congelado",
+    "Botas": "Botas Blindadas",
+    "Objeto 2": "Malla de Espinas",
+    "Objeto 3": "Corazón de Hielo",
+    "Objeto 4": "Jak'Sho, El Proteico",
+    "Objeto 5": "Placa del Hombre Muerto"
+  },
+  "Qiyana": {
+    "Objeto 1": "Eclipse",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Filo fantasmal de Youmuu",
+    "Objeto 3": "Rencor de Serylda",
+    "Objeto 4": "Ojo de la Oscuridad",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Quinn": {
+    "Objeto 1": "Filo fantasmal de Youmuu",
+    "Botas": "Botas de Rapidez",
+    "Objeto 2": "Eclipse",
+    "Objeto 3": "Recuerdos de Lord Dominik",
+    "Objeto 4": "Bailarín Espectral",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Rammus": {
+    "Objeto 1": "Corazón de Acero",
+    "Botas": "Botas de Movilidad",
+    "Objeto 2": "Malla de Espinas",
+    "Objeto 3": "Yelmo Adaptable",
+    "Objeto 4": "Corazón de Hielo",
+    "Objeto 5": "Égida de Fuego Solar"
+  },
+  "Riven": {
+    "Objeto 1": "Eclipse",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Cuchilla Oscura",
+    "Objeto 3": "Lanza de Shojin",
+    "Objeto 4": "Baile de la Muerte",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Samira": {
+    "Objeto 1": "Filo del Infinito",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Sanguinaria",
+    "Objeto 3": "Recuerdos de Lord Dominik",
+    "Objeto 4": "Baile de la Muerte",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Sett": {
+    "Objeto 1": "Rompecascos",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Hidra Titánica",
+    "Objeto 3": "Guantelete de Fuego Congelado",
+    "Objeto 4": "Baile de la Muerte",
+    "Objeto 5": "Corazón de Acero"
+  },
+  "Shaco": {
+    "Objeto 1": "Cosechador Nocturno",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Reloj de Arena de Zhonya",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Llamasombría",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Shen": {
+    "Objeto 1": "Corazón de Acero",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Hidra Titánica",
+    "Objeto 3": "Égida de Fuego Solar",
+    "Objeto 4": "Malla de Espinas",
+    "Objeto 5": "Placa del Hombre Muerto"
+  },
+  "Singed": {
+    "Objeto 1": "Creagrietas",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Abrazo Demoniaco",
+    "Objeto 3": "Cetro de Cristal de Rylai",
+    "Objeto 4": "Corazón de Acero",
+    "Objeto 5": "Máscara Abisal"
+  },
+  "Smolder": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Malignidad",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Sona": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Incensario Ardiente",
+    "Objeto 3": "Redención",
+    "Objeto 4": "El Crisol de Mikael",
+    "Objeto 5": "Protector Pétreo de Gárgola"
+  },
+  "Soraka": {
+    "Objeto 1": "Ecos de Helia",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Redención",
+    "Objeto 3": "El Crisol de Mikael",
+    "Objeto 4": "Incensario Ardiente",
+    "Objeto 5": "Protector Pétreo de Gárgola"
+  },
+  "Swain": {
+    "Objeto 1": "Vara de las Edades",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Abrazo Demoniaco",
+    "Objeto 3": "Reloj de Arena de Zhonya",
+    "Objeto 4": "Abrazo del Serafín",
+    "Objeto 5": "Sombrero de Rabadon"
+  },
+  "Sylas": {
+    "Objeto 1": "Vara de las Edades",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Creagrietas",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Reloj de Arena de Zhonya",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Syndra": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Sombrero de Rabadon",
+    "Objeto 3": "Reloj de Arena de Zhonya",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Velo del Hada de la Muerte"
+  },
+  "Talon": {
+    "Objeto 1": "Eclipse",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Filo fantasmal de Youmuu",
+    "Objeto 3": "Rencor de Serylda",
+    "Objeto 4": "Ángel Guardián",
+    "Objeto 5": "Baile de la Muerte"
+  },
+  "Thresh": {
+    "Objeto 1": "Coraza de Fuego",
+    "Botas": "Botas de Movilidad",
+    "Objeto 2": "Juramento de Caballero",
+    "Objeto 3": "Redención",
+    "Objeto 4": "Malla de Espinas",
+    "Objeto 5": "Égida de Fuego Solar"
+  },
+  "Tristana": {
+    "Objeto 1": "Filo del Infinito",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Cañón de Fuego Rápido",
+    "Objeto 3": "Bailarín Espectral",
+    "Objeto 4": "Recuerdos de Lord Dominik",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Twisted Fate": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Perdición del Liche",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Urgot": {
+    "Objeto 1": "Hidra Titánica",
+    "Botas": "Botas Blindadas",
+    "Objeto 2": "Guantelete de Fuego Congelado",
+    "Objeto 3": "Cuchilla Oscura",
+    "Objeto 4": "Malla de Espinas",
+    "Objeto 5": "Corazón de Acero"
+  },
+  "Vayne": {
+    "Objeto 1": "Kraken",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Hoja de furia de Guinsoo",
+    "Objeto 3": "Hoja del Rey Arruinado",
+    "Objeto 4": "Terminus",
+    "Objeto 5": "Recuerdos de Lord Dominik"
+  },
+  "Veigar": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Sombrero de Rabadon",
+    "Objeto 3": "Bastón del Vacío",
+    "Objeto 4": "Reloj de Arena de Zhonya",
+    "Objeto 5": "Velo del Hada de la Muerte"
+  },
+  "Vex": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Reloj de Arena de Zhonya",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Velo del Hada de la Muerte",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Viego": {
+    "Objeto 1": "Hoja del Rey Arruinado",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Rompecascos",
+    "Objeto 3": "Hidra Titánica",
+    "Objeto 4": "Ángel Guardián",
+    "Objeto 5": "Baile de la Muerte"
+  },
+  "Viktor": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Sombrero de Rabadon",
+    "Objeto 3": "Bastón del Vacío",
+    "Objeto 4": "Reloj de Arena de Zhonya",
+    "Objeto 5": "Velo del Hada de la Muerte"
+  },
+  "Vladimir": {
+    "Objeto 1": "Vara de las Edades",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Creagrietas",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Reloj de Arena de Zhonya",
+    "Objeto 5": "Bastón del Vacío"
+  },
+  "Warwick": {
+    "Objeto 1": "Hoja del Rey Arruinado",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Hidra Titánica",
+    "Objeto 3": "Corazón de Acero",
+    "Objeto 4": "Baile de la Muerte",
+    "Objeto 5": "Ángel Guardián"
+  },
+  "Xerath": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Malignidad",
+    "Objeto 3": "Sombrero de Rabadon",
+    "Objeto 4": "Bastón del Vacío",
+    "Objeto 5": "Reloj de Arena de Zhonya"
+  },
+  "Yone": {
+    "Objeto 1": "Filo del Infinito",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Bailarín Espectral",
+    "Objeto 3": "Hoja del Rey Arruinado",
+    "Objeto 4": "Ángel Guardián",
+    "Objeto 5": "Baile de la Muerte"
+  },
+  "Zac": {
+    "Objeto 1": "Corazón de Acero",
+    "Botas": "Botas Jonias de Lucidez",
+    "Objeto 2": "Égida de Fuego Solar",
+    "Objeto 3": "Abrazo Demoniaco",
+    "Objeto 4": "Malla de Espinas",
+    "Objeto 5": "Corazón de Hielo"
+  },
+  "Zeri": {
+    "Objeto 1": "Kraken",
+    "Botas": "Grebas del Berserker",
+    "Objeto 2": "Hoja de furia de Guinsoo",
+    "Objeto 3": "Terminus",
+    "Objeto 4": "Huracán de Runaan",
+    "Objeto 5": "Recuerdos de Lord Dominik"
+  },
+  "Zoe": {
+    "Objeto 1": "Compañero de Luden",
+    "Botas": "Botas de Hechicero",
+    "Objeto 2": "Sombrero de Rabadon",
+    "Objeto 3": "Reloj de Arena de Zhonya",
+    "Objeto 4": "Velo del Hada de la Muerte",
+    "Objeto 5": "Bastón del Vacío"
+  }
+}

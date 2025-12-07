@@ -1,0 +1,772 @@
+{
+  "Aatrox": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Tenacidad",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Ahri": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Akali": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Precision",
+    "Runa Secundaria 1": "Triunfo",
+    "Runa Secundaria 2": "Golpe de Gracia"
+  },
+  "Akshan": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ataque Intensificado",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Anivia": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Cometa Arcana",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Golpe Bajo",
+    "Runa Secundaria 2": "Cazador Voraz"
+  },
+  "Ashe": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Linaje",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Velocidad de Acercamiento"
+  },
+  "Bardo": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Impacto Súbito",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Incansable",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Banda de Maná",
+    "Runa Secundaria 2": "Celeridad"
+  },
+  "Blitzcrank": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Réplica",
+    "Runa 2": "Demolición",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Inquebrantable",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Braum": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Guardián",
+    "Runa 2": "Fuente de Vida",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Inquebrantable",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Briar": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Impacto Súbito",
+    "Runa Secundaria 2": "Cazador Definitivo"
+  },
+  "Darius": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Tenacidad",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Diana": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Impacto Súbito",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Ekko": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Cosecha Oscura",
+    "Runa 2": "Impacto Súbito",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador de Tesoros",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Elise": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Incansable",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Capa del Nimbo",
+    "Runa Secundaria 2": "Celeridad"
+  },
+  "Evelynn": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Capa del Nimbo",
+    "Runa Secundaria 2": "Se avecina Tormenta"
+  },
+  "Fiddlesticks": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Cosecha Oscura",
+    "Runa 2": "Impacto Súbito",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Momento Oportuno",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Fiora": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Fizz": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Gwen": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Ivern": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Invocar a Aery",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Janna": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Invocar a Aery",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Jax": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Compás Letal",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Jhin": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Pies Veloces",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Linaje",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Sobrecrecimiento"
+  },
+  "Jinx": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Linaje",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "K'Sante": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Garras del Inmortal",
+    "Runa 2": "Golpe de Escudo",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Sobrecrecimiento",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Kaisa": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Lluvia de Espadas",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador de Tesoros",
+    "Ruta Secundaria": "Precision",
+    "Runa Secundaria 1": "Triunfo",
+    "Runa Secundaria 2": "Golpe de Gracia"
+  },
+  "Karma": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Cometa Arcana",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Golpe Bajo",
+    "Runa Secundaria 2": "Cazador Definitivo"
+  },
+  "Kassadin": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Precision",
+    "Runa Secundaria 1": "Claridad Mental",
+    "Runa Secundaria 2": "Golpe de Gracia"
+  },
+  "Katarina": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador de Tesoros",
+    "Ruta Secundaria": "Precision",
+    "Runa Secundaria 1": "Triunfo",
+    "Runa Secundaria 2": "Golpe de Gracia"
+  },
+  "Kayle": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Sobrecrecimiento"
+  },
+  "Kindred": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Impacto Súbito",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Kled": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Tenacidad",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Lee Sin": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Leona": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Réplica",
+    "Runa 2": "Demolición",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Inquebrantable",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Lulu": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Invocar a Aery",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Revitalizar"
+  },
+  "Maestro Yi": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Malphite": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Cometa Arcana",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Sobrecrecimiento"
+  },
+  "Milio": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Invocar a Aery",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Revitalizar"
+  },
+  "Miss Fortune": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Cometa Arcana",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Nami": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Invocar a Aery",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Nidalee": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Cosecha Oscura",
+    "Runa 2": "Impacto Súbito",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador de Tesoros",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Capa del Nimbo",
+    "Runa Secundaria 2": "Celeridad"
+  },
+  "Nunu y Willump": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Fase Veloz",
+    "Runa 2": "Capa del Nimbo",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Celeridad",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Golpe Bajo",
+    "Runa Secundaria 2": "Cazador Incansable"
+  },
+  "Olaf": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Ornn": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Garras del Inmortal",
+    "Runa 2": "Demolición",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Sobrecrecimiento",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Poppy": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Réplica",
+    "Runa 2": "Golpe de Escudo",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Inquebrantable",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Impacto Súbito",
+    "Runa Secundaria 2": "Cazador Incansable"
+  },
+  "Qiyana": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Impacto Súbito",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Quinn": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Pies Veloces",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Capa del Nimbo",
+    "Runa Secundaria 2": "Celeridad"
+  },
+  "Rammus": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Réplica",
+    "Runa 2": "Fuente de Vida",
+    "Runa 3": "Condicionamiento",
+    "Runa 4": "Sobrecrecimiento",
+    "Ruta Secundaria": "Precision",
+    "Runa Secundaria 1": "Triunfo",
+    "Runa Secundaria 2": "Leyenda: Tenacidad"
+  },
+  "Riven": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Tenacidad",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Samira": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Linaje",
+    "Runa 4": "Último Esfuerzo",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Sett": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Compás Letal",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Shaco": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Cosecha Oscura",
+    "Runa 2": "Impacto Súbito",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador de Tesoros",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Shen": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Garras del Inmortal",
+    "Runa 2": "Golpe de Escudo",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Inquebrantable",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Impacto Súbito",
+    "Runa Secundaria 2": "Cazador Definitivo"
+  },
+  "Singed": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Fase Veloz",
+    "Runa 2": "Capa del Nimbo",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Celeridad",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Revitalizar"
+  },
+  "Smolder": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Cometa Arcana",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Sona": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Invocar a Aery",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Revitalizar"
+  },
+  "Soraka": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Invocar a Aery",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Concentración Absoluta",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Revitalizar"
+  },
+  "Swain": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Tenacidad",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Golpe Bajo",
+    "Runa Secundaria 2": "Cazador Definitivo"
+  },
+  "Sylas": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Tenacidad",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Trascendencia",
+    "Runa Secundaria 2": "Se avecina Tormenta"
+  },
+  "Syndra": {
+    "Ruta Primaria": "Inspiración",
+    "Clave": "Primer Golpe",
+    "Runa 2": "Calzado Mágico",
+    "Runa 3": "Entrega de Galletas",
+    "Runa 4": "Perspicacia Cósmica",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Banda de Maná",
+    "Runa Secundaria 2": "Trascendencia"
+  },
+  "Talon": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Impacto Súbito",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Incansable",
+    "Ruta Secundaria": "Precision",
+    "Runa Secundaria 1": "Triunfo",
+    "Runa Secundaria 2": "Golpe de Gracia"
+  },
+  "Thresh": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Réplica",
+    "Runa 2": "Fuente de Vida",
+    "Runa 3": "Revestimiento de Huesos",
+    "Runa 4": "Inquebrantable",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Entrega de Galletas",
+    "Runa Secundaria 2": "Perspicacia Cósmica"
+  },
+  "Tristana": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Linaje",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Twisted Fate": {
+    "Ruta Primaria": "Inspiración",
+    "Clave": "Primer Golpe",
+    "Runa 2": "Calzado Mágico",
+    "Runa 3": "Entrega de Galletas",
+    "Runa 4": "Perspicacia Cósmica",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Banda de Maná",
+    "Runa Secundaria 2": "Trascendencia"
+  },
+  "Urgot": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ataque Intensificado",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Tenacidad",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Sobrecrecimiento"
+  },
+  "Vayne": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Linaje",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Veigar": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Banda de Maná",
+    "Runa Secundaria 2": "Trascendencia"
+  },
+  "Vex": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Cosecha Oscura",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador Definitivo",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Banda de Maná",
+    "Runa Secundaria 2": "Trascendencia"
+  },
+  "Viego": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Conquistador",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Impacto Súbito",
+    "Runa Secundaria 2": "Cazador de Tesoros"
+  },
+  "Viktor": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Fase Veloz",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Calzado Mágico",
+    "Runa Secundaria 2": "Entrega de Galletas"
+  },
+  "Vladimir": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Fase Veloz",
+    "Runa 2": "Capa del Nimbo",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Sabor a Sangre",
+    "Runa Secundaria 2": "Cazador Definitivo"
+  },
+  "Warwick": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Compás Letal",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Revitalizar"
+  },
+  "Xerath": {
+    "Ruta Primaria": "Brujería",
+    "Clave": "Cometa Arcana",
+    "Runa 2": "Banda de Maná",
+    "Runa 3": "Trascendencia",
+    "Runa 4": "Se avecina Tormenta",
+    "Ruta Secundaria": "Dominación",
+    "Runa Secundaria 1": "Golpe Bajo",
+    "Runa Secundaria 2": "Cazador Definitivo"
+  },
+  "Yone": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Compás Letal",
+    "Runa 2": "Triunfo",
+    "Runa 3": "Leyenda: Presteza",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Determinación",
+    "Runa Secundaria 1": "Revestimiento de Huesos",
+    "Runa Secundaria 2": "Inquebrantable"
+  },
+  "Zac": {
+    "Ruta Primaria": "Determinación",
+    "Clave": "Réplica",
+    "Runa 2": "Fuente de Vida",
+    "Runa 3": "Condicionamiento",
+    "Runa 4": "Sobrecrecimiento",
+    "Ruta Secundaria": "Inspiración",
+    "Runa Secundaria 1": "Perspicacia Cósmica",
+    "Runa Secundaria 2": "Calzado Mágico"
+  },
+  "Zeri": {
+    "Ruta Primaria": "Precision",
+    "Clave": "Ritmo Letal",
+    "Runa 2": "Claridad Mental",
+    "Runa 3": "Leyenda: Linaje",
+    "Runa 4": "Golpe de Gracia",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Capa del Nimbo",
+    "Runa Secundaria 2": "Celeridad"
+  },
+  "Zoe": {
+    "Ruta Primaria": "Dominación",
+    "Clave": "Electrocutar",
+    "Runa 2": "Sabor a Sangre",
+    "Runa 3": "Colección de Globos Oculares",
+    "Runa 4": "Cazador de Tesoros",
+    "Ruta Secundaria": "Brujería",
+    "Runa Secundaria 1": "Banda de Maná",
+    "Runa Secundaria 2": "Trascendencia"
+  }
+}

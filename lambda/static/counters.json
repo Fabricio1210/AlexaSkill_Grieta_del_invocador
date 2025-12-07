@@ -1,0 +1,233 @@
+{
+  "Aatrox": {
+    "Counters": ["Fiora", "Irelia", "Jax"]
+  },
+  "Ahri": {
+    "Counters": ["Fizz", "Kassadin", "Diana"]
+  },
+  "Akali": {
+    "Counters": ["Vladimir", "Tristana", "Garen"]
+  },
+  "Akshan": {
+    "Counters": ["Malphite", "Talon", "Renekton"]
+  },
+  "Anivia": {
+    "Counters": ["Syndra", "Vladimir", "Talon"]
+  },
+  "Ashe": {
+    "Counters": ["Draven", "Tristana", "Twitch"]
+  },
+  "Bardo": {
+    "Counters": ["Blitzcrank", "Leona", "Nami"]
+  },
+  "Blitzcrank": {
+    "Counters": ["Morgana", "Tresh", "Alistar"]
+  },
+  "Braum": {
+    "Counters": ["Janna", "Zilean", "Nami"]
+  },
+  "Briar": {
+    "Counters": ["Trundle", "Udyr", "Graves"]
+  },
+  "Darius": {
+    "Counters": ["Vayne", "Quinn", "Kayle"]
+  },
+  "Diana": {
+    "Counters": ["Ekko", "Galio", "Sylas"]
+  },
+  "Ekko": {
+    "Counters": ["Syndra", "Twisted Fate", "Kassadin"]
+  },
+  "Elise": {
+    "Counters": ["Nidalee", "Graves", "Udyr"]
+  },
+  "Evelynn": {
+    "Counters": ["Lee Sin", "Rek'Sai", "Warwick"]
+  },
+  "Fiddlesticks": {
+    "Counters": ["Shaco", "Lee Sin", "Elise"]
+  },
+  "Fiora": {
+    "Counters": ["Malphite", "Jax", "Poppy"]
+  },
+  "Fizz": {
+    "Counters": ["Malzahar", "Vladimir", "Galio"]
+  },
+  "Gwen": {
+    "Counters": ["Olaf", "Wukong", "Sett"]
+  },
+  "Ivern": {
+    "Counters": ["Shaco", "Lee Sin", "Elise"]
+  },
+  "Janna": {
+    "Counters": ["Blitzcrank", "Leona", "Thresh"]
+  },
+  "Jax": {
+    "Counters": ["Malphite", "Fiora", "Kled"]
+  },
+  "Jhin": {
+    "Counters": ["Tristana", "Kaisa", "Samira"]
+  },
+  "Jinx": {
+    "Counters": ["Tristana", "Caitlyn", "Ziggs"]
+  },
+  "K'Sante": {
+    "Counters": ["Olaf", "Garen", "Sett"]
+  },
+  "Kaisa": {
+    "Counters": ["Caitlyn", "Ashe", "Jhin"]
+  },
+  "Karma": {
+    "Counters": ["Blitzcrank", "Leona", "Soraka"]
+  },
+  "Kassadin": {
+    "Counters": ["Talon", "Lucian", "Tristana"]
+  },
+  "Katarina": {
+    "Counters": ["Galio", "Malzahar", "Vladimir"]
+  },
+  "Kayle": {
+    "Counters": ["Jax", "Tryndamere", "Olaf"]
+  },
+  "Kindred": {
+    "Counters": ["Graves", "Shyvana", "Udyr"]
+  },
+  "Kled": {
+    "Counters": ["Vayne", "Olaf", "Gnar"]
+  },
+  "Lee Sin": {
+    "Counters": ["Graves", "Hecarim", "Kindred"]
+  },
+  "Leona": {
+    "Counters": ["Morgana", "Janna", "Zilean"]
+  },
+  "Lulu": {
+    "Counters": ["Blitzcrank", "Thresh", "Nami"]
+  },
+  "Maestro Yi": {
+    "Counters": ["Jax", "Rammus", "Warwick"]
+  },
+  "Malphite": {
+    "Counters": ["Darius", "Olaf", "Garen"]
+  },
+  "Milio": {
+    "Counters": ["Blitzcrank", "Leona", "Thresh"]
+  },
+  "Miss Fortune": {
+    "Counters": ["Caitlyn", "Ezreal", "Jhin"]
+  },
+  "Nami": {
+    "Counters": ["Blitzcrank", "Leona", "Alistar"]
+  },
+  "Nidalee": {
+    "Counters": ["Udyr", "Graves", "Rek'Sai"]
+  },
+  "Nunu y Willump": {
+    "Counters": ["Olaf", "Graves", "Udyr"]
+  },
+  "Olaf": {
+    "Counters": ["Vayne", "Quinn", "Kled"]
+  },
+  "Ornn": {
+    "Counters": ["Darius", "Fiora", "Olaf"]
+  },
+  "Poppy": {
+    "Counters": ["Darius", "Fiora", "Olaf"]
+  },
+  "Qiyana": {
+    "Counters": ["Talon", "Zed", "Kassadin"]
+  },
+  "Quinn": {
+    "Counters": ["Teemo", "Vayne", "Malphite"]
+  },
+  "Rammus": {
+    "Counters": ["Olaf", "Vayne", "Fiora"]
+  },
+  "Riven": {
+    "Counters": ["Darius", "Renekton", "Garen"]
+  },
+  "Samira": {
+    "Counters": ["Caitlyn", "Jhin", "Kaisa"]
+  },
+  "Sett": {
+    "Counters": ["Vayne", "Quinn", "Darius"]
+  },
+  "Shaco": {
+    "Counters": ["Lee Sin", "Rek'Sai", "Hecarim"]
+  },
+  "Shen": {
+    "Counters": ["Darius", "Olaf", "Garen"]
+  },
+  "Singed": {
+    "Counters": ["Vayne", "Teemo", "Darius"]
+  },
+  "Smolder": {
+    "Counters": ["Lucian", "Draven", "Miss Fortune"]
+  },
+  "Sona": {
+    "Counters": ["Blitzcrank", "Leona", "Thresh"]
+  },
+  "Soraka": {
+    "Counters": ["Blitzcrank", "Leona", "Alistar"]
+  },
+  "Swain": {
+    "Counters": ["Kassadin", "Veigar", "Syndra"]
+  },
+  "Sylas": {
+    "Counters": ["Kassadin", "Vladimir", "Anivia"]
+  },
+  "Syndra": {
+    "Counters": ["Fizz", "Zed", "Kassadin"]
+  },
+  "Talon": {
+    "Counters": ["Kassadin", "Anivia", "Malzahar"]
+  },
+  "Thresh": {
+    "Counters": ["Morgana", "Alistar", "Janna"]
+  },
+  "Tristana": {
+    "Counters": ["Caitlyn", "Ashe", "Vayne"]
+  },
+  "Twisted Fate": {
+    "Counters": ["Fizz", "Zed", "Talon"]
+  },
+  "Urgot": {
+    "Counters": ["Vayne", "Kayle", "Fiora"]
+  },
+  "Vayne": {
+    "Counters": ["Caitlyn", "Ashe", "Jhin"]
+  },
+  "Veigar": {
+    "Counters": ["Fizz", "Talon", "Zed"]
+  },
+  "Vex": {
+    "Counters": ["Diana", "Kassadin", "Fizz"]
+  },
+  "Viego": {
+    "Counters": ["Graves", "Kindred", "Trundle"]
+  },
+  "Viktor": {
+    "Counters": ["Fizz", "Zed", "Kassadin"]
+  },
+  "Vladimir": {
+    "Counters": ["Fizz", "Kassadin", "Anivia"]
+  },
+  "Warwick": {
+    "Counters": ["Graves", "Udyr", "Kindred"]
+  },
+  "Xerath": {
+    "Counters": ["Fizz", "Talon", "Zed"]
+  },
+  "Yone": {
+    "Counters": ["Malphite", "Tryndamere", "Kled"]
+  },
+  "Zac": {
+    "Counters": ["Graves", "Udyr", "Olaf"]
+  },
+  "Zeri": {
+    "Counters": ["Caitlyn", "Ashe", "Jhin"]
+  },
+  "Zoe": {
+    "Counters": ["Kassadin", "Fizz", "Talon"]
+  }
+}
